@@ -1,6 +1,6 @@
 # Chirper - Laravel Application
 
-A simple Social Media application built with Laravel and Inertia 2.0 and React.
+A simple Social Media application built with Laravel and Inertia 2.0.
 
 ## Features
 
